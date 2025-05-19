@@ -39,11 +39,9 @@ A tool that takes a account and destroys it
 ##  Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/2turnted/Discord-Account-Nuker.git
 
-# Navigate to the directory
 cd Discord-Account-Nuker
 
-# Install required packages
 pip install -r requirements.txt
+or python3 for mac users
