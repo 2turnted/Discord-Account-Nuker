@@ -12,7 +12,7 @@ from colorama import Style, Fore
 from time import sleep
 from multiprocessing import current_process
 
-# Added your signature
+# signature
 print(f"{Fore.RED}Made by prince!{Style.RESET_ALL}")
 
 t_or_f = [True, False]
